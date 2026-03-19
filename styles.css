@@ -1,0 +1,55 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+  font-family: Verdana;
+}
+ul {
+  color: red;
+  font-family: Verdana;
+}
+h3 {
+  color: blue;
+}
+ol {
+  color: rgb(239, 1, 164);
+  font-family: Verdana;
+}
+b {
+  color :blueviolet;
+  font-family: Verdana;
+}
+i {
+  color :blueviolet;
+  font-family: Verdana;
+}
+h2 {
+  color: blue;
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(248, 2, 2);
+  background-color: transparent;
+ text-decoration: none;
+}
+
+a:hover {
+  color: rgb(8, 0, 255);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(229, 3, 245);
+  background-color: transparent;
+ text-decoration: underline;
+}
